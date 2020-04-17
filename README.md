@@ -1,0 +1,2 @@
+# yes-discord
+Discord bot
