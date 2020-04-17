@@ -1,0 +1,47 @@
+{
+    "clase geografia": {
+        "materia": "geografia",
+        "info": "tarea que nos dejo",
+        "fecha": "21/4 13:30",
+        "id": "clase geografia",
+        "idReunion": "748 2895 7430",
+        "contraReunion": "5LGF6W",
+        "link": "https://us04web.zoom.us/j/74828957430?pwd=L2d4eWtWaVBKMVQ5SnFhbGs2N3ZoZz09"
+    },
+    "clase con ASDRA Y Proyecto Dane": {
+        "materia": "Taller de Programacion",
+        "info": "Tenemos mas llamadas con mas personas (re paja)",
+        "fecha": "20/4 9:30",
+        "id": "clase con ASDRA Y Proyecto Dane",
+        "idReunion": "922 3702 7533",
+        "contraReunion": "090230",
+        "link": "https://zoom.us/j/92237027533 "
+    },
+    "clase de ingles17": {
+        "materia": "ingles",
+        "info": "tenemos clase hagan lo del crime scene",
+        "fecha": "17/4 13:30",
+        "id": "clase de ingles17",
+        "idReunion": "543 829 180",
+        "contraReunion": "024636",
+        "link": "https://zoom.us/j/543829180?pwd=UCs5RldWNmtaTGZ0VTd4Y2FhQyswZz09 "
+    },
+    "clase-iot": {
+        "materia": "IoT",
+        "info": "Hacer formulario antes de la clase",
+        "fecha": "21/4 16:30",
+        "id": "clase-iot",
+        "idReunion": "990 1553 2975",
+        "contraReunion": "011137",
+        "link": "https://zoom.us/j/99015532975?pwd=ODRId3UySWxFZzh2eU5zd0F5SmhaQT09"
+    },
+    "clase judia 17": {
+        "materia": "educacion judia",
+        "info": "haber visto sunshine seguramente hablemos de eso",
+        "fecha": "17/4 9:20",
+        "id": "clase judia 17",
+        "idReunion": "754 818 8200",
+        "contraReunion": "2020",
+        "link": "https://zoom.us/j/7548188200?pwd=NnJ6Y3JIbkdoL2RDZFBBZlpiWExSQT09 "
+    }
+}
