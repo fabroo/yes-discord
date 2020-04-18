@@ -608,7 +608,7 @@ function elforeachClases(idCanal, archivo, tipo, id_tipo) {
 }
 function myFunction(){
 if (ids_tareas.length === 0) {
-       console.log(description: ('Flaco no hay más tareas.')
+       console.log('Flaco no hay más tareas.')
           
       } else {
         elforeach(ID_TAREAS_TOPLA, TAREASJSON, "tarea", ids_tareas);
