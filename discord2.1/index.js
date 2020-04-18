@@ -11,18 +11,18 @@ const keep_alive = require('./keep_alive.js')
 
 const PREFIX = '!!';
 
-const ID_PRUEBAS_TOPLA = '697998980289790023';
-const ID_TAREAS_TOPLA = '697998867223937024';
-const ID_CLASES_TOPLA = '697999019825299457';
+// const ID_PRUEBAS_TOPLA = '697998980289790023';
+// const ID_TAREAS_TOPLA = '697998867223937024';
+// const ID_CLASES_TOPLA = '697999019825299457';
 
-const ID_PRUEBAS_KRUNKER = '698025128784560148';
-const ID_TAREAS_KRUNKER = '698025093116199093';
-const ID_CLASES_KRUNKER = '698025117460201522';
+// const ID_PRUEBAS_KRUNKER = '698025128784560148';
+// const ID_TAREAS_KRUNKER = '698025093116199093';
+// const ID_CLASES_KRUNKER = '698025117460201522';
 
 // test server ids
-// const ID_PRUEBAS_TOPLA = '697870006993551361';
-// const ID_TAREAS_TOPLA = '697870100014825592';
-// const ID_CLASES_TOPLA = '697969395863126036';
+const ID_PRUEBAS_TOPLA = '697870006993551361';
+const ID_TAREAS_TOPLA = '697870100014825592';
+const ID_CLASES_TOPLA = '697969395863126036';
 
 // const ID_PRUEBAS_KRUNKER = '697915043312042045';
 // const ID_TAREAS_KRUNKER = '697915120776380426';
@@ -605,6 +605,16 @@ function elforeachClases(idCanal, archivo, tipo, id_tipo) {
       console.log(err)
     }
   })
+}
+function myFunction(){
+if (ids_tareas.length === 0) {
+       console.log(description: ('Flaco no hay más tareas.')
+          
+      } else {
+        elforeach(ID_TAREAS_TOPLA, TAREASJSON, "tarea", ids_tareas);
+        elforeach(ID_TAREAS_KRUNKER, TAREASJSON, "tarea", ids_tareas);
+        console.log('Gil fijate en el canal de tareas!');
+      }
 }
 
 
